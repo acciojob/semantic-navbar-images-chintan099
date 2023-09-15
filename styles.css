@@ -1,2 +1,19 @@
 
 /* Your CSS Code here. */
+ul{
+	display:flex;
+	background-color:#646671;
+	flex-direction:row-reverse;
+}	
+li {
+
+/* 	border:2px solid yellow; */
+	list-style:none;
+	padding:5px;
+	
+}
+a{
+	font-weight:bold;
+	color:white;
+	text-decoration:none;
+}
